@@ -3,17 +3,22 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "lucide-react": "^0.386.0"
   },
+
   "devDependencies": {
+    "vite": "^4.5.0",
+    "@vitejs/plugin-react": "^4.0.0",
     "typescript": "^5.4.0"
   },
+
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
+    "dev": "vite",          // local dev →  http://localhost:5173
+    "build": "vite build",  // Netlify runs this
     "preview": "vite preview"
   }
 }
