@@ -1,0 +1,24 @@
+[
+  {
+    "Year": 1920,
+    "Title": "The Cabinet of Dr. Caligari",
+    "Genre": "Horror",
+    "Country": "Germany",
+    "Description": "Expressionist silent classic about a hypnotist and a sleepwalker.",
+    "RT_Critic": 100,
+    "RT_Audience": 89,
+    "Availability": "Public domain",
+    "Spoilers": "The entire story is revealed to be the narrator's delusion inside an asylum."
+  },
+  {
+    "Year": 1999,
+    "Title": "Fight Club",
+    "Genre": "Psychological Thriller",
+    "Country": "USA",
+    "Description": "An office worker forms an underground fight club with a soap salesman.",
+    "RT_Critic": 81,
+    "RT_Audience": 96,
+    "Availability": "Hulu",
+    "Spoilers": "Narrator and Tyler Durden are the same person."
+  }
+]
